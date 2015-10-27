@@ -1,0 +1,77 @@
+* Get the code from Steffi [0/4]
+  DEADLINE: <2015-11-03 Tue>
+** TODO Meeting with Steffi/Marco to get the introduction
+   DEADLINE: <2015-10-27 Tue>
+** TODO Get input data from Steffi
+   DEADLINE: <2015-10-27 Tue>
+** TODO Compile the code in local
+   DEADLINE: <2015-11-03 Tue>
+** TODO Xcheck with Steffi that the results are the same
+   DEADLINE: <2015-11-03 Tue>
+
+
+* Modelsim simulation [0/4]
+** TODO Minimum simulation
+** TODO Implement overload safeguard
+** TODO Single sensor simulation
+** TODO Full module simulation
+
+
+* Quartus compilation [0/4]
+** TODO Minimum compilation
+** TODO Overload
+** TODO Single sensor
+** TODO Integration with firmware
+
+
+* Xcheck results C++ and Modelsim [0/2]
+** TODO Minimum simulation
+** TODO 
+
+
+* Plots [0/2]
+ - [ ] Number of tagged clusters in a given data input
+ - [ ] Tagged clusters versus time in an overload situation
+
+* Documentation Nick [0/5]
+** TODO Get the template
+** TODO Write Introduction [0/3]
+*** TODO LHCb VELO upgrade
+*** TODO DAQ chain (VeloPix - OPB - PCIe40)
+*** TODO MiniDAQ description
+** TODO Write Scrambler section [0/6]
+*** TODO Description
+*** TODO Motivation for the new scrambler
+*** TODO Xchecks
+*** TODO Simulation
+*** TODO Performance
+*** TODO Conclusions
+** TODO Write Clustering tagging section [0/5]
+*** TODO Description
+*** TODO Simulation
+*** TODO Xchecks
+*** TODO Compilation
+*** TODO Conclusions
+** TODO Summary
+
+
+* Documentation Ben [0/5]
+** TODO Get the template
+** TODO Write Introduction [0/3]
+*** TODO LHCb VELO upgrade
+*** TODO DAQ chain (VeloPix - OPB - PCIe40)
+*** TODO MiniDAQ description
+** TODO Write Scrambler section [0/6]
+*** TODO Description
+*** TODO Motivation for the new scrambler
+*** TODO Xchecks
+*** TODO Simulation
+*** TODO Performance
+*** TODO Conclusions
+** TODO Write Clustering tagging section [0/5]
+*** TODO Description
+*** TODO Simulation
+*** TODO Xchecks
+*** TODO Compilation
+*** TODO Conclusions
+** TODO Summary

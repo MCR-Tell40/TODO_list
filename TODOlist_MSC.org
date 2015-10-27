@@ -1,0 +1,25 @@
+
+* LHCb internal note [0/7]
+** TODO Get the LHCb internal note template
+** TODO Introduction [0/3]
+*** TODO LHCb VELO upgrade
+*** TODO DAQ chain (VeloPix - OPB - PCIe40)
+*** TODO MiniDAQ description
+** TODO VELO LLI [0/3] 						      :Pablo:
+*** TODO GBT2GWT
+*** TODO Lock to header
+*** TODO GWT Martin's reordering
+** TODO Data processing [0/7]
+*** TODO Scrambling
+*** TODO Parity check
+*** TODO BCID decoding
+** TODO Router
+** TODO Cluster tagging [0/4]
+*** TODO Description
+*** TODO Simulation
+*** TODO Xchecks
+*** TODO Compilation
+** TODO Summary
+
+
+

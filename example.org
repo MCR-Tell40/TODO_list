@@ -1,0 +1,57 @@
+
+* Alt+Enter to make list item
+
+
+* alt up/down to reorder
+** alt left/right to set sub lists etc
+** These will move with the parent list item
+
+* text after points will be move too
+I will be moved with the above point.
+Just like a note etc
+
+
+* You can have a counter [1/3]
+  - [ ] and check boxes
+  - [ ] You just type the [ and ] to create it
+  - [X] C-c C-c to make a check box
+  - Ctrl+Enter starts a list item from the top level
+
+
+* A percentable maker is also nice [50%]
+  - [ ] just type [%] after parent
+  - [X] it will be converted as soon as you use a check box
+  - [ ] [/] is used to make the above counter
+
+
+* Tab will fold away sub lists
+** I am not relevent atm
+** neither am I
+
+
+* TODO shift+right lables at todo
+
+
+* DONE shist+right again marks as done
+
+
+* Deadlines can be set with C-c C-d
+  DEADLINE: <2015-10-23 Fri>
+
+
+* TODO C-c C-c on a list item sets a tag				:Ben:
+
+
+* Add list to adgenda with C-c [
+** View the adgenda with M-x ord-adgenda
+** the option n is best I think
+
+
+* more stuff here http://orgmode.org
+** There is a lot of stuff in org-mode inc spreadsheet etc
+
+  
+
+
+
+
