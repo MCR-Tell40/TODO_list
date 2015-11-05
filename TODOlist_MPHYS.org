@@ -1,6 +1,6 @@
-* Get the code from Steffi [0/4]
+* Get the code from Steffi [1/4]
   DEADLINE: <2015-11-03 Tue>
-** TODO Meeting with Steffi/Marco to get the introduction
+** DONE Meeting with Steffi/Marco to get the introduction
    DEADLINE: <2015-10-27 Tue>
 ** TODO Get input data from Steffi
    DEADLINE: <2015-10-27 Tue>
