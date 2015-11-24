@@ -1,14 +1,14 @@
-* Get the code from Steffi [1/4]
+* Get the code from Steffi [2/4]
   DEADLINE: <2015-11-03 Tue>
 ** DONE Meeting with Steffi/Marco to get the introduction
    DEADLINE: <2015-10-27 Tue>
-** TODO Get input data from Steffi
+** DONE Get input data from Steffi
    DEADLINE: <2015-10-27 Tue>
 ** TODO Compile the code in local
    DEADLINE: <2015-11-03 Tue>
 ** TODO Xcheck with Steffi that the results are the same
    DEADLINE: <2015-11-03 Tue>
-
+   
 
 * Modelsim simulation [0/4]
 ** TODO Minimum simulation
@@ -16,25 +16,21 @@
 ** TODO Single sensor simulation
 ** TODO Full module simulation
 
-
 * Quartus compilation [0/4]
 ** TODO Minimum compilation
 ** TODO Overload
 ** TODO Single sensor
 ** TODO Integration with firmware
 
-
-* Xcheck results C++ and Modelsim [0/2]
+* Xcheck results C++ and Modelsim [0/1]
 ** TODO Minimum simulation
-** TODO 
-
 
 * Plots [0/2]
  - [ ] Number of tagged clusters in a given data input
  - [ ] Tagged clusters versus time in an overload situation
 
-* Documentation Nick [0/5]
-** TODO Get the template
+* Documentation Nick [1/5]
+** DONE Get the template
 ** TODO Write Introduction [0/3]
 *** TODO LHCb VELO upgrade
 *** TODO DAQ chain (VeloPix - OPB - PCIe40)
